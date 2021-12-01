@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tet
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3d559034cd5521f43ab2a96b370916c7, type: 3}
+    - {fileID: 2800000, guid: fc365e9e1263d7042a6c810e89a95e0c, type: 3}
+    - {fileID: 2800000, guid: 723b902ae6739e94f9ddb2b291314c9d, type: 3}
+    - {fileID: 2800000, guid: 0c04a1ee4c8a70b45b6a559e88fb6870, type: 3}
+    - {fileID: 2800000, guid: 90bffb196d79b7542ae251b0d80814c7, type: 3}
+    - {fileID: 2800000, guid: 88d3b0d2b207bc741a43246ffe679e51, type: 3}
+    - {fileID: 2800000, guid: e136b3fb741f578468c5618cdb4fa5ac, type: 3}
+    - {fileID: 2800000, guid: 077d9e0e6f91d4146a07292c57811d82, type: 3}
+    - {fileID: 2800000, guid: e02595c4140145b41a07803fca9f8084, type: 3}
+    - {fileID: 2800000, guid: df9f999d23d0e9f4b8e3595047e0cf81, type: 3}
+    - {fileID: 2800000, guid: b1f0a609f8084b24490b20a0e23425bf, type: 3}
+    - {fileID: 2800000, guid: 4b9f8e55b9f50594786caf8270c8ac09, type: 3}
+    - {fileID: 2800000, guid: 28e91dfebd6750f4798d093f684a26e0, type: 3}
+    - {fileID: 2800000, guid: 62a121ede3f94ed40ad0ea7af677b06b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 88d3b0d2b207bc741a43246ffe679e51, type: 3}
+  - {fileID: 21300000, guid: 3d559034cd5521f43ab2a96b370916c7, type: 3}
+  - {fileID: 21300000, guid: e02595c4140145b41a07803fca9f8084, type: 3}
+  - {fileID: 21300000, guid: 4b9f8e55b9f50594786caf8270c8ac09, type: 3}
+  - {fileID: 21300000, guid: b1f0a609f8084b24490b20a0e23425bf, type: 3}
+  - {fileID: 21300000, guid: 90bffb196d79b7542ae251b0d80814c7, type: 3}
+  - {fileID: 21300000, guid: 723b902ae6739e94f9ddb2b291314c9d, type: 3}
+  - {fileID: 21300000, guid: e136b3fb741f578468c5618cdb4fa5ac, type: 3}
+  - {fileID: 21300000, guid: df9f999d23d0e9f4b8e3595047e0cf81, type: 3}
+  - {fileID: 21300000, guid: 62a121ede3f94ed40ad0ea7af677b06b, type: 3}
+  - {fileID: 21300000, guid: 077d9e0e6f91d4146a07292c57811d82, type: 3}
+  - {fileID: 21300000, guid: fc365e9e1263d7042a6c810e89a95e0c, type: 3}
+  - {fileID: 21300000, guid: 0c04a1ee4c8a70b45b6a559e88fb6870, type: 3}
+  - {fileID: 21300000, guid: 28e91dfebd6750f4798d093f684a26e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - scene_4_FG 6
+  - scene_4_FG 1
+  - scene_4_FG 9
+  - scene_4_FG 12
+  - scene_4_FG 11
+  - scene_4_FG 5
+  - scene_4_FG 3
+  - scene_4_FG 7
+  - scene_4_FG 10
+  - scene_4_FG 27
+  - scene_4_FG 8
+  - scene_4_FG 2
+  - scene_4_FG 4
+  - scene_4_FG 13
+  m_Tag: Tet
+  m_IsVariant: 0
